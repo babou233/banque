@@ -1,4 +1,4 @@
-package com.octest.banque.bean;
+ package com.octest.banque.bean;
 
 import java.util.Date;
 
