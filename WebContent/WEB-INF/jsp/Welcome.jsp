@@ -8,7 +8,8 @@
 <title>systeme de gestion de compte bancaire</title>
 <body>
 </head>
-<%@ include file="Header.jsp"%>
+ <!-- directive page pour inclure le header -->
+<!--  <%@ include file="Header.jsp"%>-->
 <br>
  <nav
 		aria-label="breadcrumb" role="navigation">
@@ -29,6 +30,7 @@
 		</div>
 	</div>
 <div style="margin-top: 289px">
+<!-- directive page pour inclure le footer-->
 <%@ include file="Footer.jsp" %>
 </div>
 </body>
