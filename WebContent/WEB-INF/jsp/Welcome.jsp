@@ -9,7 +9,6 @@
 <body>
 </head>
  <!-- directive page pour inclure le header -->
-<!--  <%@ include file="Header.jsp"%>-->
 <br>
  <nav
 		aria-label="breadcrumb" role="navigation">
@@ -31,7 +30,6 @@
 	</div>
 <div style="margin-top: 289px">
 <!-- directive page pour inclure le footer-->
-<%@ include file="Footer.jsp" %>
 </div>
 </body>
 </html>
