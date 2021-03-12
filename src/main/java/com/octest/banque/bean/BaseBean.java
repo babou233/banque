@@ -12,7 +12,7 @@ import java.sql.Timestamp;
 	 */
 /**
  * 
- * @author mazar ceci est la classe abstraite 
+ * @author  ceci est la classe abstraite 
  *
  */
 
